@@ -16,7 +16,7 @@ graph.add('苹果的历年销量', apple_data)
 # 对于叠加柱状图，x_labels其实是设置Y轴的坐标
 graph.x_labels = year_data
 graph.x_title = '年份'
-graph.r_title = '销量（吨）'
+graph.y_title = '销量（吨）'
 
 # 设置x轴的标签旋转多少度
 graph.x_label_rotation = 45
