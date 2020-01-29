@@ -1,3 +1,5 @@
+#以下命令均在cmd下运行
+
 #下载Twisted包
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
 d:
